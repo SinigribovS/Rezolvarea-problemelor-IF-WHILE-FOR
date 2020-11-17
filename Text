@@ -1,0 +1,17 @@
+Problema 6
+
+Se dă numărul natural n. Să se compare sumele S, și S,, unde: a) S, =ľ +2+...+n' şi S, =(1+2+...+n)'; b) S, =3(1 +2+...+n²) și S, =n° +n° +(1+2+...+n).
+
+Problema 7
+
+Mihai are un unchi bogat care i-a dăruit în ziua cînd s-a născut un dolar, iar in fiecare an următor el dubla cadoul şi mai adăuga atîția dolari cîți ani împlinea Mihai. a) Să se calculeze cîți dolari a primit Mihai atunci cînd a împlinit n ani (n <20).
+
+b) La ce vîrstă cadoul lui Mihai a fost mai mare de 100$?
+
+Problema 8
+
+Se dau numerele reale pozitive a, b, c. Să se verifice dacă există un triunghi ale cărui laturi au lungimile (in aceeaşi unitate de măsură) egale cu a, c. In caz tiv, se determine tipul triunghiului echilateral, isoscel, scalen
+
+Problema 9
+
+Un număr natural se numeşte număr perfect dacă este egal cu suma divizorilor lui, in afară de el însuşi. De exemplu, 6 este număr perfect, deoarece 6 = 1 + 2 + 3. Să se afle numerele perfecte mai mici decit numărul natural dat n.
